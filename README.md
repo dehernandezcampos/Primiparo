@@ -1,2 +1,1 @@
-# Primiparo
-Primer experiencia, ejemplo del modulo dos del curso Henry, de PreparseCourse
+Esta es una prueba y ejemplo de como crear un respositorio desde Git hub y colocarlo en la carpeta de ejercicios que estoy haciendo para aprender.
